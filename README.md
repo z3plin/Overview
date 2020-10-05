@@ -16,7 +16,7 @@
 
 ***
 
-### Технолоческий стек
+### Технологический стек
 
 - Использовалась сборка [gulp-scss-starter](https://github.com/andreyalexeich/gulp-scss-starter)
   - Webpack для сборки Javascript-модулей
