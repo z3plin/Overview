@@ -14,6 +14,11 @@
 - Скомпилированные файлы - https://github.com/z3plin/reen.io
 - Результат - https://z3plin.github.io/reen.io/
 
+### Piroll template
+
+ - Исходные файлы - https://github.com/z3plin/piroll
+ - Скомпилированные файлы - https://github.com/z3plin/piroll.github.io
+ - Результат - https://z3plin.github.io/piroll.github.io/
 ***
 
 ### Технологический стек
